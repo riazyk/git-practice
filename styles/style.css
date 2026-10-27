@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
