@@ -12,3 +12,8 @@ img {
     width: 300px;
     border-radius: 10px;
 }
+
+p {
+    color: darkgreen;
+    font-size: 18px;
+}
