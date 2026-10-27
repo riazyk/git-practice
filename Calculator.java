@@ -9,4 +9,9 @@ public class Calculator {
         System.out.println("Adding 3 numbers");
         return a + b + c;
     }
+
+public int add(int a, int b, int c, int d) {
+    System.out.println("Adding 4 numbers");
+    return a + b + c + d;
+}
 }
