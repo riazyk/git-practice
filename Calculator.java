@@ -19,4 +19,8 @@ public double divide(double a, double b) {
 public int multiply(int a, int b) {
     return a * b;
 }
+
+public double sqrtBad(double number) {
+    return Math.sqrt(number);
+}
 }
